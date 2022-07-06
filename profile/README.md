@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![2022-07-06 23.52.23](profile/2022-07-06%2023.52.23.png)
+![2022-07-06 23.52.23](https://raw.githubusercontent.com/XRSec/.github/main/profile/2022-07-06%2023.52.23.png)
 
 - 🙋‍♀️ A short introduction - The tool I wrote to configure the security key is too complicated，so .
 
