@@ -1,6 +1,5 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/XRSec/.github/main/profile/2022-07-06%2023.52.23.png)
 
 # XRSec · 星冉安全与智能体实验室
 
