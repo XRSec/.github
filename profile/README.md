@@ -1,13 +1,12 @@
 <div align="center">
 
-
 # XRSec · 星冉安全与智能体实验室
 
 **低调求发展，潜心习安全 · Local-First AI Agents · Cross-Platform Infrastructure · Device & Security Engineering**
 
-[![Owner](https://img.shields.io/badge/Maintainer-@Ran--Xing-da282a?style=flat-square&logo=github)](https://github.com/Ran-Xing)
-[![Focus](https://img.shields.io/badge/Focus-AI_Agents_%7C_MCP_%7C_Security_%7C_macOS_%26_Android-0f172a?style=flat-square)](#)
-[![Email](https://img.shields.io/badge/Email-Jalapeno1868@outlook.com-da282a?style=flat-square&logo=minutemailer&logoColor=white)](mailto:Jalapeno1868@outlook.com)
+[![Owner](https://img.shields.io/badge/Maintainer-Ran--Xing-da282a?style=flat-square&logo=github)](https://github.com/Ran-Xing)
+![Focus](https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Security-0f172a?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-Jalapeno1868%40outlook.com-da282a?style=flat-square&logo=minutemailer&logoColor=white)](mailto:Jalapeno1868@outlook.com)
 [![Blog](https://img.shields.io/badge/Blog-xrsec.vercel.app-da282a?style=flat-square&logo=vercel)](https://xrsec.vercel.app)
 
 </div>
