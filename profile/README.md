@@ -31,4 +31,4 @@ If you're looking for something specific, here is what lives here:
 
 ---
 
-Questions, bug reports, and PRs are welcome in the individual repos. You can also reach me at [Jalapeno1868@outlook.com](mailto:Jalapeno1868@outlook.com) or check out occasional notes at [xrsec.vercel.app](https://xrsec.vercel.app).
+Questions, bug reports, and PRs are welcome in the individual repos. You can also reach me at [Jalapeno1868@outlook.com](mailto:Jalapeno1868@outlook.com) or check out occasional notes at [blog.xrsec.fun](https://blog.xrsec.fun).
